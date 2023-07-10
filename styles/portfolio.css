@@ -132,3 +132,27 @@ main{
     font-size: 30px;
     font-weight: 700;
 }
+.resume-column{
+    display: flex;
+    gap: 50px;
+}
+.period-descripton{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.institution-name{
+    color:#757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+.degree-name{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
